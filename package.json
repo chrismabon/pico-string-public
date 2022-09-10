@@ -1,0 +1,8 @@
+{
+  "name": "pico-string",
+  "author": "Chris Mabon",
+  "github": "https://github.com/chrismabon",
+  "version": "0.1.0",
+  "license": "GPL-2.0",
+  "description": "A simple implementation of a string library in C++, intended for re-use in other structures"
+}
